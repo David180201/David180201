@@ -10,7 +10,7 @@ Soy un apasionado de la tecnología y la programación, siempre buscando nuevos 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=davidzambranoloor&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=davidzambranoloor&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=David180201&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidzambranoloor&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=davidzambranoloor&icon=0&color=0)](https://visitcount.itsvg.in)
